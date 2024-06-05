@@ -1,11 +1,6 @@
 {
-<<<<<<< Updated upstream
-  "name": "absin-points-sdk",
-  "version": "1.0.4",
-=======
   "name": "absin-points-backend",
   "version": "1.0.0",
->>>>>>> Stashed changes
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -40,12 +35,8 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "generate-api-key": "^1.0.2",
-<<<<<<< Updated upstream
-    "pg": "^8.11.5",
-=======
     "path": "^0.12.7",
     "pg": "^8.12.0",
->>>>>>> Stashed changes
     "web3-validator": "^2.0.6"
   }
 }
