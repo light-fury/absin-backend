@@ -6,6 +6,8 @@ import PointsSDK from 'absin-points-sdk';
 import { poolConfig } from './db';
 import { extractApiKey } from './authMiddleware';
 
+require('dotenv').config()
+
 interface PointsData {
   points: number;
   address: string;
